@@ -48,14 +48,6 @@ No raw neuroimaging files (e.g., DICOM or NIfTI) are included in this repository
 
 ---
 
-## Citation
-
-If you use or reference this code or dataset, please cite the corresponding manuscript:
-
-> [Authors]. Automated whole-brain voxel-based apparent diffusion coefficient analysis for outcome prediction in status epilepticus. *[Journal name]*, [Year].
-
----
-
 ## Contact
 
 For questions regarding the code or analysis, please contact the corresponding author.
